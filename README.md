@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Droc-sid
-- 👀 I’m interested in Virtual Private Servers
-- 🌱 I’m currently learning to launch native applications on VPS
-- 💞️ I’m looking to collaborate on Native Application Development
+- 👀 I’m interested in Local host and Virtual Private Servers, Machine Learning Models and AI agent workflows in the field of Business Analytics for Data Science 
+- 🌱 I’m currently learning to launch native/bespoke applications, ML & Ai agents on local & VPS 
 - 📫 How to reach me @discord as droc_sid. 
 
 
